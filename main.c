@@ -2,6 +2,6 @@
 
 void main()
 {
-	int a=2;
+	int a=1;
 	printf("my name : chenjunxing");
 }
